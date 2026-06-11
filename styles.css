@@ -86,3 +86,17 @@ footer {
     font-size: 0.9rem;
     color: #a0aec0;
 }
+
+/* Új stílusok a Másodlagos Gép szekcióhoz */
+.secondary-header {
+    text-align: center;
+    margin-top: 60px; /* Távolság az elsődleges géptől */
+    margin-bottom: 30px;
+}
+
+.secondary-header h2 {
+    font-size: 2.5rem;
+    color: #63b3ed;
+    border-top: 2px dashed #4a5568; /* Vizuális elválasztó vonal */
+    padding-top: 40px;
+}
